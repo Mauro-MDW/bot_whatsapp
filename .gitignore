@@ -1,0 +1,16 @@
+# Node.js dependencies
+node_modules/
+
+# Datos de sesión de WhatsApp
+session/
+.wwebjs_auth/
+.wwebjs_cache/
+
+# Archivos del entorno (si los usas)
+.env
+
+# Cachés y logs innecesarios
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
